@@ -27,6 +27,47 @@ PIN-UP은 사용자가 실제 방문한 지역을
 
 # 🛠 Tech Stack
 
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-JWT%20%2B%20OAuth2-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-OpenAPI_3-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 🎨 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4?style=for-the-badge)
+
+### 🪄 Design
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🗄️ Database
+![MariaDB](https://img.shields.io/badge/MariaDB-Database-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🤖 AI / OCR Service
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-OCR_Service-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[EasyOCR](https://img.shields.io/badge/EasyOCR-Korean_Text_Recognition-FF6F00?style=for-the-badge)
+
+
+### 🚀 DevOps / Infrastructure
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
 ## 💻 Backend
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square"/>
@@ -38,47 +79,6 @@ PIN-UP은 사용자가 실제 방문한 지역을
   <img src="https://img.shields.io/badge/MyBatis-b31b1b?style=flat-square"/>
 </p>
 
----
-
-## 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Fetch%20API-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/dayjs-black?style=flat-square"/>
-</p>
-
----
-
-## 🪄 Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square"/>
-</p>
-
----
-
-## 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/MyBatis-b31b1b?style=flat-square"/>
-</p>
-
----
-
-## ⚙️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google%20sheets&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/ERD%20Cloud-4285F4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square"/>
-</p>
 
 # ✨ 주요 기능 (Features)
 
